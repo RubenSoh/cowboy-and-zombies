@@ -1,0 +1,1 @@
+This is an attempt of making a video game about zombies and cowboys in Unity. Unfortunately I kind of shifted my focus to learning web development so I kind of left this project unfinished. Maybe one day I'll come back to it.
